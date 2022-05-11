@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(34, 31, 76);
+}
+
+.homeLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scrumLogo {
+    width: 16vw;
+    height: 10vh;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.BtnArticle {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2px;
+}
+
+button {
+    background-color: rgb(73, 122, 197);
+    padding: 8px;
+    margin: 4px;
+    height: 6vh;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+img {
+    align-items: center;
+    padding: 1rem;
+    width: 100vw;
+    height: 50vh;
+}
+
+footer {
+    background-color: rgb(73, 122, 197);
+    height: 100vh;
+    ;
+}
+
+footer p {
+    color: white;
+}
