@@ -12,8 +12,6 @@ export default function ProsAndConsPage() {
                 <h1>Pros and cons med scrum</h1>
             </article>
 
-
-
         </main>
     )
 }

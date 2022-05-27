@@ -14,7 +14,7 @@ export default function LandingPage() {
                     <Link to={"/"}>
                         <img className={styles.scrumLogo} src="https://www.scrum.org/themes/custom/scrumorg/assets/images/logo-250.png" alt="" />
                     </Link>
-                    <h1>Guidline för scrum</h1>
+                    <h1 className="header">Guidline för scrum</h1>
                 </article>
 
                 <section>
@@ -35,13 +35,6 @@ export default function LandingPage() {
                     </article>
                 </section>
             </main>
-
-            <footer>
-                <h1>Länkar</h1>
-                <p>asdfghjkl</p>
-                <p>asdfghjklö</p>
-                <p>asdfghjklö</p>
-            </footer>
 
         </body>
 
