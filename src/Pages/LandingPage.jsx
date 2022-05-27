@@ -31,7 +31,7 @@ export default function LandingPage() {
                     </article>
 
                     <article>
-                        <img src="https://media.istockphoto.com/photos/agile-software-development-with-developer-using-kanban-board-on-picture-id1346698461?b=1&k=20&m=1346698461&s=170667a&w=0&h=JeZckqMep5VDuJ4PHsF2U9A7Nm9ooUiAvgXXoXW_HFk=" alt="" />
+                        <img className={styles.landingPageImg} src="https://media.istockphoto.com/photos/agile-software-development-with-developer-using-kanban-board-on-picture-id1346698461?b=1&k=20&m=1346698461&s=170667a&w=0&h=JeZckqMep5VDuJ4PHsF2U9A7Nm9ooUiAvgXXoXW_HFk=" alt="" />
                     </article>
                 </section>
             </main>

@@ -22,7 +22,7 @@ export default function AboutPage() {
                     </p>
 
                     <p>
-                        Kort sagt är scrum en metodik för systemutveckling. Scrum uppfanns under 1990-talet och är idag en etablerad metodik för systemutveckling som används över hela världen.En fördel med scrum är fokuseringen på affärsnytta och möjligheten att förändra projektet på ett strukturerat sätt. I scrum finns det inte en klassisk kravspecifikation utan man har istället en backlog. En backlog är kort sagt en prioriterad och levande lista med önskemål. Detta innebär att i ett projekt kan önskemål som är aktuella vid projektets start falla bort om de prioriteras ned under projektets gång och nya önskemål kan också läggas till.
+                        Kort sagt är scrum en metodik för systemutveckling. Scrum uppfanns under 1990-talet och är idag en etablerad metodik för systemutveckling som används över hela världen.En fördel med scrum är fokuseringen på affärsnytta och möjligheten att förändra projektet på ett strukturerat sätt.
                     </p>
 
                 </section>

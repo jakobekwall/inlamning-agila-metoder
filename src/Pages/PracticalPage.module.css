@@ -13,3 +13,28 @@ h1 {
     color: white;
     text-align: center;
 }
+
+.scrumRoles, p {
+    text-align: center;
+    color: white;
+    margin: 1.5em;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+
+.scrumPractical, h2 {
+    color: white;
+    text-align: center;
+}
+
+.scrumPractical, h3 {
+    color: white;
+ text-align: left;
+ padding: 1em;   
+}
+
+.scrumPractical, img {
+    width: 94vw;
+    margin: 0 auto;
+
+}
